@@ -3,7 +3,7 @@ function login() {
 }
 
 function logout() {
-    console.log("Logout");
+    console.log("User Logout");
 }
 
 function register() {
