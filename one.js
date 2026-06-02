@@ -7,5 +7,5 @@ function logout() {
 }
 
 function register() {
-    console.log("Register");
+    console.log("Userrrrrr Register");
 }
