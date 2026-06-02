@@ -1,5 +1,5 @@
 function login() {
-    console.log("Login");
+    console.log("User Login");
 }
 
 function logout() {
