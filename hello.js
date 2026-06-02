@@ -1,8 +1,8 @@
 function hello(){
-    return "hello";
+    return "jjjjjjjjjj";
 }
 function greet(){
-    return "greet"
+    return "kkkkkkkkkkk"
 }
 function hii(){
     return "Hoo";
